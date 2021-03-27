@@ -1,0 +1,16 @@
+body{
+  background: rgb(209,229,226);
+}
+h3{
+  margin-top: 40px;
+}
+li{
+  list-style-type: none;
+}
+.hidden{
+  visibility: hidden;
+}
+
+.strikeOut{
+  text-decoration: line-through;
+}
